@@ -1,3 +1,3 @@
 # neon-ui-kit
 
-Created by mosaicra-creator.
+Created by mosaicra
